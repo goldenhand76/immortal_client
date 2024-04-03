@@ -8,6 +8,6 @@ setup(
     url='https://github.com/goldenhand76/immortal-client',
     author='goldenhand76',
     author_email='rezazarindast76@gmail.com',
-    description='Python client for interacting with Immortal service',
+    description='Python client for interacting with Immortals service',
     python_requires='>=3.6',
 )
