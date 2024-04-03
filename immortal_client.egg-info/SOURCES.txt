@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+immortal_client/__init__.py
+immortal_client/client.py
+immortal_client.egg-info/PKG-INFO
+immortal_client.egg-info/SOURCES.txt
+immortal_client.egg-info/dependency_links.txt
+immortal_client.egg-info/requires.txt
+immortal_client.egg-info/top_level.txt

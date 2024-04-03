@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: immortal-client
+Version: 0.1
+Summary: Python client for interacting with Immortals service
+Home-page: https://github.com/goldenhand76/immortal-client
+Author: goldenhand76
+Author-email: rezazarindast76@gmail.com
+Requires-Python: >=3.6
+License-File: LICENSE
