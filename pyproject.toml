@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "immortal-client"
+dynamic = ["version"]
+dependencies = ["requests==2.31.0"]
+requires-python = ">= 3.6"
+authors = [
+  {name = "goldenhand76", email = "rezazarindast76@gmail.com"},
+]
+maintainers = [
+  {name = "goldenhand76", email = "rezazarindast76@gmail.com"}
+]
+description = "Wonderful Immortals client"
+readme = "README.md"
+license = {file = "LICENSE"}
+keywords = ["IoT", "python", "gRPC", "kafka"]
+
+[project.urls]
+Homepage = "https://github.com/goldenhand76/immortal_client"
+Documentation = "https://github.com/goldenhand76/immortal_client"
+Repository = "https://github.com/goldenhand76/immortal_client.git"
+Issues = "https://github.com/goldenhand76/immortal_client/issues"

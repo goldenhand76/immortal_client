@@ -1,1 +1,4 @@
 dist/
+venv/
+immortal_client.egg-info/
+.pypirc
